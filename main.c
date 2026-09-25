@@ -2,10 +2,9 @@
 
 int main(void)
 {
-    printf("hello\n");
     int num;
     scanf("%d", &num);
-    printf("%d\n", num + 1);
+    printf("%d\n", num * 10);
 
     return 0;
 }
